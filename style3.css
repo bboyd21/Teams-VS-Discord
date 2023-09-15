@@ -1,0 +1,131 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+/* Navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+  }
+  
+  .navbar-brand {
+    padding: 1em;
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-item {
+    display: inline-block;
+  }
+  
+  .nav-link {
+    padding: 1em;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .nav-link:hover {
+    background-color: #002cbd;
+    border: 10px;
+  }
+  
+  .teams{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+  }
+  
+  .teams .textbox{
+    position: relative;
+    max-width: 800px;
+    margin-top: 100px;
+  }
+
+  .teams .textbox h2{
+    font-size: 3em;
+    font-weight: 500;
+    
+  }
+
+  header ul li a {
+    font-weight: 400px;
+    display: inline-block;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+
+  .teams .textbox a{
+    display: inline-block;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(77, 52, 198);
+    margin-top: 20px;
+    border-radius: 40px;
+    padding: 8px 20px;
+    text-decoration: none;
+  }
+
+  .teams .textbox h2 span{
+    color: rgb(80, 88, 200);
+  }
+
+  .navbar h1{
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+  header{
+    height: 150px;
+  }
+  /*card */
+  .container{
+    display: flex;
+    justify-content: center;
+  }
+
+ .card{
+  background: rgb(153, 153, 243);
+  width: 500px;
+  height: 600px;
+  margin: 10px;
+  border-radius: 40px;
+ }
+
+ .card-img{
+  
+  height: 200px;
+  margin-bottom: 15px;
+  background-size: cover;
+  
+ }
+
+ .img-1{
+  background-image: url('./Microsoft-Teams-Emblem.png');
+ }
+
+ .img-2{
+  background-image: url('./Discord-2.png');
+ }
+
+ .card li{
+  padding: 10px;
+ }
+
+ 
