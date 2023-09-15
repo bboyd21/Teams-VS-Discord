@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <title>Responsive </title>
+</head>
+
+<body>
+   <!-- Navbar -->
+<nav class="navbar">
+    <a href="/" class="navbar-brand">
+     <h1>Brian Boyds Research</h1>
+    </a>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a href="/" class="nav-link"><datag>Discord</datag></a>
+      </li>
+      <li class="nav-item">
+        <a href="MS Teams/microsft.html" class="nav-link">Microsoft Teams</a>
+      </li>
+      <li class="nav-item">
+        <a href="DF/dif.html" class="nav-link">Differences</a>
+      </li>
+    </ul>
+  </nav>
+  <header>
+
+  </header>
+  <div class="discord">
+    <div class="textbox">
+        <h2>Space for everyone to find belonging <span>Discord</span></h2>
+        <p>Discord is a free communication platform that allows you to chat via text, voice, or video. Founded in 2015 Discord was created by Jason Citron and Stan Vishnevskiy to eliminate any factors that led to a undesirable gaming experience. As a result this led to them developing a platform where you're offered an all-in-one experience with voice, video, and chat capabilities. This created a giant shift in the gaming world by giving users the abilty to connect with friends or online communities with shared interests. Servers are the main communities on Discord. You're given the option make them either public or private and even require invitations to join. Inside these servers users can setup channels based on different topics allowing people to find friends based off of their own interest.</p>
+        <a href="https://discord.com/company">Learn More</a>
+    </div>
+    <div class="Dis">
+        <img src="img/Discord-2.png" alt="">
+      </div>
+  </div>
+
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
